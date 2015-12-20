@@ -1,2 +1,2 @@
 # HelloWorld
-This program dispalys the Hello World on the screen
+print('Hello World')
